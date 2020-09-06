@@ -1,4 +1,4 @@
-# connect-mobileCaM-
+# connect-mobileCaM
 
 # pip install opencv-python
 
